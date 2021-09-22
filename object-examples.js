@@ -4,5 +4,7 @@ var car = {
   number: 95,
   bestFriend: "Mater",
   catchphrase: "Ka-chow!",
+  favoriteActivity: "racing",
+  girlfriend: "Sally",
 };
 console.log(car)
