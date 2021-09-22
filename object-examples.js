@@ -6,5 +6,6 @@ var car = {
   catchphrase: "Ka-chow!",
   favoriteActivity: "racing",
   girlfriend: "Sally",
+  hometown: "Radiator Springs"
 };
 console.log(car)
